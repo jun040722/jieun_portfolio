@@ -1,7 +1,7 @@
 - **`Project` :** AI 엔지니어 박상준 포트폴리오
 - **`Project duration` :** 2025.01.01 - 2025.01.31
-- **`Link` :** [배포 사이트](https://jieun-portfolio.vercel.app/)
-- **`피그마 구상도`:** [피그마 임시 구상도](https://www.figma.com/proto/yYqRCEUVsz7MqOj5LmHEkH/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=137-1569&t=wrYIENswdY00Shik-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=126%3A386&show-proto-sidebar=1&mode=design)
+- **`Link` :** [배포 사이트]()
+- **`피그마 구상도`:** [피그마 임시 구상도]()
 - **`Stack` :** Vite, React, TypeScript, Redux Toolkit, Tailwind CSS, Styled Components
 
 ## 설명
@@ -35,43 +35,43 @@ AI 엔지니어로서의 역량과 프로젝트를 보여주기 위해 제작한
 ## 작업 화면 (현재 사이트와 스타일이 다소 다를 수 있습니다.)
 |Main|
 |------|
-|![스크린샷 2024-02-03 오전 3 36 35](https://github.com/jieun419/jieun_portfolio/assets/109754988/82ccfef0-67dd-4fac-96e8-82bccd772f37)|
+|![스크린샷 2024-02-03 오전 3 36 35]()|
 |- 소셜 링크(GitHub, Instagram)<br>- 업데이트 날짜<br>- 간략한 소개 표시|
 
 |About me|
 |------|
-|![스크린샷 2024-02-03 오전 3 37 09](https://github.com/jieun419/jieun_portfolio/assets/109754988/af20b63e-2984-49a9-ab1c-ddd41d619428)![스크린샷 2024-02-03 오전 3 36 58](https://github.com/jieun419/jieun_portfolio/assets/109754988/9027ea56-8c26-47fa-ac17-97edd3831c45)|
+|![스크린샷 2024-02-03 오전 3 37 09]()|
 |- 인터뷰 형식의 간략한 소개<br>- 간략한 사용 툴 및 스택<br>- 팀원 리뷰 바로보기|
 
 |Career|
 |------|
-|![스크린샷 2024-02-03 오전 3 40 28](https://github.com/jieun419/jieun_portfolio/assets/109754988/55c8f402-ed34-451e-af89-42b996a56b2e)|
+|![스크린샷 2024-02-03 오전 3 40 28]()|
 |- 기간, 기관명<br>- 활동 내역<br> - 사용했던 스택|
 
 |Project|
 |------|
-|![스크린샷 2024-02-03 오전 3 41 00](https://github.com/jieun419/jieun_portfolio/assets/109754988/79d15ca3-e536-4d9f-a0ba-4a317118728c)|
+|![스크린샷 2024-02-03 오전 3 41 00]()|
 |- 탭 메뉴로 카테고리별 확인 가능<br>- 프로젝트 명<br>- 간략한 소개<br>- 관련 태그|
 
 |Education|
 |------|
-|![스크린샷 2024-02-03 오전 3 41 20](https://github.com/jieun419/jieun_portfolio/assets/109754988/af2e2920-7b42-4596-8781-9b747dc80c62)|
+|![스크린샷 2024-02-03 오전 3 41 20]()|
 |- 기간, 기관명<br>- 활동 내역<br> - 사용했던 스택|
 
 |Project Detail|
 |------|
-|![스크린샷 2024-02-03 오전 4 07 50](https://github.com/jieun419/jieun_portfolio/assets/109754988/c30f948f-0529-4c46-b35e-b22bdaf9717c)|
+|![스크린샷 2024-02-03 오전 4 07 50]()|
 |- 프로젝트 상세 정보(기간, 인원 등)<br>- 프로젝트 상세 내용(프로젝트 설명, 사용한 기술, 작업 기여도, 문제 해결)<br>- 바로가기 링크(GitHub, 배포 링크, 관련 블로그 링크)|
 
 
 |Review Detail|
 |------|
-|![스크린샷 2024-02-03 오전 4 08 12](https://github.com/jieun419/jieun_portfolio/assets/109754988/2a955cbb-fe59-44b0-8cb4-90db908ec414)|
+|![스크린샷 2024-02-03 오전 4 08 12]()|
 |- 팀원 및 멘토 리뷰 최신순으로 확인 (이름, 프로젝트 명 표시)|
 
 |Mop|
 |------|
-|![스크린샷 2024-02-03 오전 3 47 56](https://github.com/jieun419/jieun_portfolio/assets/109754988/13704555-310d-4809-95dc-53fea18056d3)|
+|![스크린샷 2024-02-03 오전 3 47 56]()|
 |- 끝 맺음 표시<br>- 소셜 링크 제공|
 
 
