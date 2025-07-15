@@ -48,14 +48,13 @@ export const ArrowWrap = tw.span`
   rotate-90
 `;
 
-function ShowReviewBtn({ children, handelImgChange }: {
+function ShowReviewBtn({ children }: {
   children: React.ReactNode;
-  handelImgChange?: () => void;
 }) {
   const { openModal } = useModal();
 
   return (
-    <ShowReviewButton onMouseEnter={handelImgChange} onMouseLeave={handelImgChange} onClick={() => openModal('review')}>
+    <ShowReviewButton onClick={() => openModal('review')}>
       <BtnTxt>{children}</BtnTxt>
       <ArrowWrap>
         <IcLineArrow

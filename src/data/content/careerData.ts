@@ -1,29 +1,25 @@
 export const careerData = [
   {
-    data: '2021.04 - 2022.09',
-    title: '건국사이버 평생교육원',
-    role: '@ 개발본부 디자인팀 - 웹 디자인 총괄',
+    data: '2025.01 -',
+    title: '인하대학교 중앙컴퓨터 동아리 INCOM',
+    role: '회장',
     infos: [
-      'Photoshop을 활용해 홍보 랜딩 페이지, 웹 디자인 작업',
-      'HTML, CSS 활용해 웹 표준, 접근성에 신경쓰며 자사 및 타사 웹 사이트 퍼블리싱',
-      '기획자, 프론트엔드 개발자와의 협업 툴을 적극 활용해 지속적인 커뮤니케이션',
-      '자사 및 10개 이상의 기업 웹 사이트 유지보수',
-      '클라이언트와의 직접적인 소통 및 응대를 통해 프로젝트 구체화',
+      'GDSC 2024 Growthon 최우수상 - 인하대학교 SW중심대학사업단장상',
+      'INCOMTHON 2025 대회 기획 및 운영',
+      'INCOM 정기 python 교육 조교',
+      'INCOM ML/AI 스터디장',
     ],
-    stacks: ['html', 'css', 'ps', 'ai'],
+    stacks: ['python', 'pytorch', 'tensorflow'],
   },
   {
-    data: '2017.05 - 2021.04',
-    title: '(주)비전트리',
-    role: '@ 개발본부 디자인팀 - 웹 디자인 총괄',
+    data: '2025.06 - ',
+    title: 'Code IN BIO LAB',
+    role: '@ 학부연구생',
     infos: [
-      'Photoshop을 활용해 홍보 랜딩 페이지, 웹 디자인 작업',
-      'Photoshop, Illustrator을 활용해 홍보물 디자인 작업',
-      'HTML, CSS 활용해 웹 표준, 접근성에 신경쓰며 자사 및 타사 웹 사이트 퍼블리싱',
-      '기획자, 프론트엔드 개발자와의 협업 툴을 적극 활용해 지속적인 커뮤니케이션',
-      '자사 및 10개 이상의 기업 웹 사이트 유지보수',
-      '클라이언트와의 직접적인 소통 및 응대를 통해 프로젝트 구체화',
+      'NGS 기초 스터디',
+
+      
     ],
-    stacks: ['html', 'css', 'ps', 'ai'],
+    stacks: ['python', 'pytorch', 'tensorflow'],
   },
 ];

@@ -339,6 +339,27 @@ function ProjectDetail() {
                 }
 
                 {
+                  projectDetail.videourl && (
+                    <PWrap>
+                      <PTitle>
+                        🎥 프로젝트 데모 영상
+                        <PSubText>프로젝트 동작 영상을 확인할 수 있습니다.</PSubText>
+                      </PTitle>
+                      <div className="w-full max-w-4xl mx-auto">
+                        <video 
+                          controls 
+                          className="w-full rounded-lg shadow-lg"
+                          preload="metadata"
+                        >
+                          <source src={projectDetail.videourl} type="video/mp4" />
+                          브라우저가 비디오 태그를 지원하지 않습니다.
+                        </video>
+                      </div>
+                    </PWrap>
+                  )
+                }
+
+                {
                   projectDetail.detailimginfo && (
                     <PWrap>
                       <PTitle>

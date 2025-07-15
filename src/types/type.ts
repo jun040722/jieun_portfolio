@@ -49,6 +49,7 @@ export type ProjectDetailDataT = {
   team: string;
   tag: string[];
   imgurl?: string;
+  videourl?: string; // 영상 파일 경로 추가
   detailimginfo?: {
     imgurl: string;
     subject: string;

@@ -37,6 +37,7 @@ export const Role = tw.span`
 export const RecordUl = tw.ul`
   text-base
   text-[#A6A6A6]
+  leading-relaxed
 `;
 
 export const RecordList = tw.li`

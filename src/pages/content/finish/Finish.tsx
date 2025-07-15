@@ -52,8 +52,8 @@ function Finish() {
             </MainTitle>
 
             <MainSubText>
-              프론트엔드 개발자로 성장하기 위해 낯선 기술에도 적극적으로 도전하고,<br />
-              항상 사용자의 관점에서 생각하며 사용하기 좋은 서비스를 만들고 싶습니다.
+              AI 엔지니어로 성장하기 위해 낯선 기술에도 적극적으로 도전하며,<br />
+              항상 완벽주의를 가지고 책임감있게 일하는 개발자가 되겠습니다.
             </MainSubText>
             <SocialLinkList />
           </TextWrap>

@@ -1,17 +1,17 @@
 ![Desktop - 7](https://github.com/jieun419/jieun_portfolio/assets/109754988/0d619991-4690-4994-9c8e-95c120205720)
 # ⭐️ 멘트, 구조 등을 그대로 베끼지 마시고 본인만의 스타일로 수정해 주세요...
 
-- **`Project` :** 최지은 포트폴리오
-- **`Project duration` :** 2023.08.31 - 2023.09.31
+- **`Project` :** AI 엔지니어 박상준 포트폴리오
+- **`Project duration` :** 2025.01.01 - 2025.01.31
 - **`Link` :** [배포 사이트](https://jieun-portfolio.vercel.app/)
 - **`피그마 구상도`:** [피그마 임시 구상도](https://www.figma.com/proto/yYqRCEUVsz7MqOj5LmHEkH/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=137-1569&t=wrYIENswdY00Shik-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=126%3A386&show-proto-sidebar=1&mode=design)
 - **`Stack` :** Vite, React, TypeScript, Redux Toolkit, Tailwind CSS, Styled Components
 
 ## 설명
-노션, 템플릿 소스 등을 이용할 수 있었지만 `저만의 포트폴리오` 사이트를 가지고 싶어 제작했습니다.<br>
+AI 엔지니어로서의 역량과 프로젝트를 보여주기 위해 제작한 포트폴리오입니다.<br>
 주요 색상인 `black & white`로 심플하고 차분한 느낌을 줬고,<br>
-간단한 자기 소개와 프로젝트, 이력 등 중요도 순으로 배치해 내용을 구성했습니다.<br>
-이를 통해 포트폴리오를 보는 사람들에게 원하는 정보를 쉽게 전달할 수 있도록 했습니다.<br><br>
+간단한 자기 소개와 AI/ML 프로젝트, 경력 등 중요도 순으로 배치해 내용을 구성했습니다.<br>
+이를 통해 포트폴리오를 보는 사람들에게 AI 엔지니어로서의 역량을 쉽게 전달할 수 있도록 했습니다.<br><br>
 **지금에서 마무리하지 않고 개선할 점을 찾으며 업데이트하고 있습니다.**
 
 ## 작업사항
@@ -32,15 +32,14 @@
   - [x] react-markdown 도입으로 가독성 높이기 (임시)
   
 ## 관련 링크
-[회고][[나의 포트폴리오 만들기]](https://velog.io/@crg1050/나의-포트폴리오-만들기)<br>
-[회고][[포트폴리오 개선하기]](https://velog.io/@crg1050/포트폴리오-개선하기)<br>
-[개선][[Tooltip 추가하기]](https://velog.io/@crg1050/포트폴리오-Tooltip-추가하기)<br>
+[GitHub](https://github.com/jun040722)<br>
+[Instagram](https://www.instagram.com/qkr_tkdwns)<br>
 
 ## 작업 화면 (현재 사이트와 스타일이 다소 다를 수 있습니다.)
 |Main|
 |------|
 |![스크린샷 2024-02-03 오전 3 36 35](https://github.com/jieun419/jieun_portfolio/assets/109754988/82ccfef0-67dd-4fac-96e8-82bccd772f37)|
-|- 소셜 링크(GitHub, Velog)<br>- 업데이트 날짜<br>- 간략한 소개 표시|
+|- 소셜 링크(GitHub, Instagram)<br>- 업데이트 날짜<br>- 간략한 소개 표시|
 
 |About me|
 |------|
@@ -59,7 +58,7 @@
 
 |Education|
 |------|
-|![스크린샷 2024-02-03 오전 3 41 20](https://github.com/jieun419/jieun_portfolio/assets/109754988/af2e2920-7b42-4596-8781-7b747dc80c62)|
+|![스크린샷 2024-02-03 오전 3 41 20](https://github.com/jieun419/jieun_portfolio/assets/109754988/af2e2920-7b42-4596-8781-9b747dc80c62)|
 |- 기간, 기관명<br>- 활동 내역<br> - 사용했던 스택|
 
 |Project Detail|

@@ -38,7 +38,7 @@ export default {
         }
       },
       backgroundImage: {
-        'main': 'url("https://github.com/jieun419/jieun_portfolio/blob/main/src/assets/images/front_bg.jpg?raw=true")'
+        'main': 'url("https://github.com/user-attachments/assets/cf47db4a-9fc6-42eb-83ce-384c9e003683")'
       },
     },
   },

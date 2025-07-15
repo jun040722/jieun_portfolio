@@ -5,7 +5,7 @@ import { useLocation } from 'react-router-dom';
 import { motion } from 'framer-motion';
 
 import { isMobile } from '../../../utils/isMobile';
-import myImg from '../../../assets/images/jieun_img.webp';
+import myImg from '../../../assets/images/sangjune_black_img.png';
 import SocialLinkList from '../../../components/main/SocialList';
 import ScrollArrow from '../../../components/main/ScrollArrow';
 import InfoWrap from '../../../components/main/InfoWrap';
@@ -71,7 +71,7 @@ function Main() {
           transition={{ ...ANI_TRANSITION, delay: 3 }}
           src={myImg}
           ismobile={ismobile}
-          alt='최지은 인물 사진'
+          alt='박상준 인물 사진'
           loading='lazy'
         />
 
