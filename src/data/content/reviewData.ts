@@ -1,3 +1,3 @@
-export const reviewData = [
+export const reviewData: { name: string; review: string }[] = [
   
 ];
