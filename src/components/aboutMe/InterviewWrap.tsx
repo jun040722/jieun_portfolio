@@ -46,7 +46,7 @@ const InterviewWrap = () => {
         <Tit>Interview</Tit>
         <MyMindTxt>
           <SubTit>Q. AI 엔지니어를 선택한 이유는?</SubTit>
-          컴퓨터공학을 전공하며 AI/ML의 무한한 가능성을 발견했습니다.<br />
+          인공지능공학을 전공하며 AI/ML의 무한한 가능성을 발견했습니다.<br />
           <PointText>데이터를 통해 인사이트를 도출</PointText>하고, <PointText>실제 문제를 해결하는 모델</PointText>을 개발하는 것에 매력을 느꼈습니다.<br />
           Python, PyTorch, TensorFlow 등 다양한 AI/ML 라이브러리를 활용해 지속적으로 발전할 수 있는 새로운 도전에 나서고 있습니다.
         </MyMindTxt>
