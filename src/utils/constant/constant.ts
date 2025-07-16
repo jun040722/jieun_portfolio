@@ -34,6 +34,14 @@ export const socialLink = [
     arialabel: 'instargram',
     target: '_blank',
   },
+  {
+    id: 3,
+    datatooltip: 'LinkedIn 가기',
+    tooltiptype: 'bottom',
+    href: 'https://www.linkedin.com/in/%ED%95%99%EC%83%9D-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%B5%ED%95%99-%EB%B0%95%EC%83%81%EC%A4%80-1295b7370/',
+    arialabel: 'LinkedIn',
+    target: '_blank',
+  },
 ];
 
 export const tabMenuList = [
