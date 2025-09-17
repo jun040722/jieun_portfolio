@@ -18,8 +18,17 @@ export const careerData = [
     infos: [
       'NGS 기초 스터디',
 
-      
+
     ],
     stacks: ['python', 'pytorch', 'tensorflow'],
+  },
+  {
+    data: '2025.07 -',
+    title: 'Totaro.international',
+    role: '@ AI Engineering manager',
+    infos: [
+      
+    ],
+    stacks: ['python', 'pytorch', 'tensorflow', 'YOLO', 'computer-vision ', ''],
   },
 ];
